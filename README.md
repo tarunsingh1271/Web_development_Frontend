@@ -2,7 +2,7 @@
 
 ## Build Setup
 
-Just Clone Django-Auth First
+Just Clone "Web_Development_Backend" first
 
 ```bash
 # install dependencies
